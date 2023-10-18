@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../TripleTen Estudo/Teste"
+    }
+  ],
+  "settings": {
+    "files.autoSave": "onFocusChange",
+    "liveServer.settings.multiRootWorkspaceName": "Teste"
+  }
+}
