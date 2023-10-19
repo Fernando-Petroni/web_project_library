@@ -24,7 +24,8 @@
 
 .nav__logo {
   display: block;
-  height: auto;
+  height: 80px;
+  width: 57px;
 }
 
 .nav__links {
@@ -33,6 +34,7 @@
   margin-left: auto;
   column-gap: 20px;
   list-style-type: none;
+  top: 8px;
 }
 
 .nav__link {
